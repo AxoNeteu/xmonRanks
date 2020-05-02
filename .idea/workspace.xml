@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="xmonRank" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cbd129e-e8eb-4020-be5a-16599b25df27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aM84TQEphvIf3kxG0XnjkV1BrH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cbd129e-e8eb-4020-be5a-16599b25df27" name="Default Changelist" comment="" />
+      <created>1586533910530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586533910530</updated>
+      <workItem from="1586533921556" duration="4976000" />
+      <workItem from="1586549490575" duration="72000" />
+      <workItem from="1586555618972" duration="934000" />
+      <workItem from="1586557567322" duration="1118000" />
+      <workItem from="1586649008410" duration="20000" />
+      <workItem from="1586700712933" duration="200000" />
+      <workItem from="1586906292723" duration="203000" />
+      <workItem from="1586985438296" duration="142000" />
+      <workItem from="1587578567696" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="213" key="#Auto_Import" timestamp="1586538443021">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Auto_Import/0.30.1920.1050@0.30.1920.1050" timestamp="1586538443021" />
+    <state x="552" y="213" key="#Project_Structure" timestamp="1586556519997">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1586556519997" />
+    <state x="765" y="271" key="#com.intellij.ide.util.MemberChooser" timestamp="1586538488658">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="271" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1586538488658" />
+    <state x="357" y="185" width="998" height="708" key="SettingsEditor" timestamp="1586556528462">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="357" y="185" width="998" height="708" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1586556528462" />
+    <state x="342" y="257" key="new project wizard" timestamp="1586700923555">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="342" y="257" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1586700923555" />
+    <state x="623" y="257" key="search.everywhere.popup" timestamp="1586538855599">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1586538855599" />
+  </component>
+</project>

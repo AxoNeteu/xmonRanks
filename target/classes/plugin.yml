@@ -1,0 +1,12 @@
+name: 'xmonRank'
+main: 'cf.xmon.rank.Plugin'
+version: '1.0.0'
+website: 'https://Xmon.cf/'
+author: 'Xmon'
+depend:
+  - 'Vault'
+commands:
+  gracz:
+    aliases:
+      - ranking
+      - rank

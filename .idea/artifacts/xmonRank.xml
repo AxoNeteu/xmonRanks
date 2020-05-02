@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xmonRank">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="xmonRank.jar">
+      <element id="module-output" name="xmonRanks" />
+    </root>
+  </artifact>
+</component>
